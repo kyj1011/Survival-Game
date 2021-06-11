@@ -33,6 +33,8 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 
 ## 순서도
 ![순서도](https://user-images.githubusercontent.com/84300945/120951333-90dd5680-c783-11eb-8731-75dc7f688982.PNG)
+![KakaoTalk_20210611_160355928](https://user-images.githubusercontent.com/84300945/121645065-bdb8a300-cace-11eb-8388-b3c59555ef2d.jpg)
+
 
 ## 사용에셋
 
