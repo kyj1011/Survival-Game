@@ -37,7 +37,7 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 ## 사용에셋
 
 ## 생성파일
-![캡처](https://user-images.githubusercontent.com/84300945/121642681-d1aed580-cacb-11eb-8752-51d720cc509c.JPG)
+![캡처](https://user-images.githubusercontent.com/84300945/121643433-c6a87500-cacc-11eb-88e3-d4e29f2ee6ac.JPG)
 ![1](https://user-images.githubusercontent.com/84300945/121642686-d4112f80-cacb-11eb-8dfb-c5f41cf79d71.JPG)
 
 ## 홍보 및 마케팅 방법
