@@ -7,13 +7,18 @@
 
 ## 게임기획의도
 환경오염으로 인해 폐허가 된 지구의 미래 모습을 상상해보았다. 
+
+## 게임목표
 지구에 유일하게 남은 주인공이 식물을 찾고 생존해가는 모습을 보여줌으로써 
 환경오염에 대한 경각심을 느끼게 해주고자 한다.
 
+## 주요대상층
+
+## 게임배경
+![월e_포스터](https://user-images.githubusercontent.com/84300945/121641802-9d86e500-caca-11eb-8311-7f42e3565bea.jpg)
 
 ## 게임스토리
 지구에 유일하게 남은 주인공이 적을 피한 후 식물을 찾아서 우주선에 탑승하여 지구를 탈출하는스토리이다.
-![월e_포스터](https://user-images.githubusercontent.com/84300945/121641802-9d86e500-caca-11eb-8311-7f42e3565bea.jpg)
 
 ## 게임설명
 WASD키와 스페이스바, Shift 등의 조작키를 통해 플레이어의 이동을 조작한다.
@@ -29,6 +34,10 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 ## 순서도
 ![순서도](https://user-images.githubusercontent.com/84300945/120951333-90dd5680-c783-11eb-8731-75dc7f688982.PNG)
 
+## 사용에셋
+
 ## 생성파일
 ![캡처](https://user-images.githubusercontent.com/84300945/121642681-d1aed580-cacb-11eb-8752-51d720cc509c.JPG)
 ![1](https://user-images.githubusercontent.com/84300945/121642686-d4112f80-cacb-11eb-8dfb-c5f41cf79d71.JPG)
+
+## 홍보 및 마케팅 방법
