@@ -36,5 +36,4 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 ![spaceship](https://user-images.githubusercontent.com/84656270/121800445-e24a8180-cc6c-11eb-9fae-e3eab5b4595a.PNG)
 
 ## 생성파일
-![캡처](https://user-images.githubusercontent.com/84300945/121643433-c6a87500-cacc-11eb-88e3-d4e29f2ee6ac.JPG)
-![1](https://user-images.githubusercontent.com/84300945/121642686-d4112f80-cacb-11eb-8dfb-c5f41cf79d71.JPG)
+![14](https://user-images.githubusercontent.com/84300945/121804361-ee403e80-cc80-11eb-9c3e-12ecdd6fea35.PNG)
