@@ -29,16 +29,28 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 적을 제거하고 최종 목표인 식물을 채집해서 우주선에 도달하는 것이 게임의 목표이다.
 
 ## 주요기능
-![2](https://user-images.githubusercontent.com/84300945/121804950-f8b00780-cc83-11eb-9aaf-cdc97ef331bf.PNG)
-
 1) 숫자 키패드를 이용한 무기 변경기능
 ![3](https://user-images.githubusercontent.com/84300945/121804951-fa79cb00-cc83-11eb-9b9c-6da6a7551e0c.PNG)
 숫자 키패드 2번을 누르면 총을 소지한다.
 ![4](https://user-images.githubusercontent.com/84300945/121804954-fc438e80-cc83-11eb-87b1-1494d319159e.PNG)
 숫자 키패드 3번을 누르면 도끼를 소지한다.
+
+2) 물품 획득기능
 ![5](https://user-images.githubusercontent.com/84300945/121804956-fd74bb80-cc83-11eb-9408-7e0c8bea36e7.PNG)
+E를 누르면 물품을 획득할 수 있다.
+
+3) 체력확인 기능
+![2](https://user-images.githubusercontent.com/84300945/121804950-f8b00780-cc83-11eb-9aaf-cdc97ef331bf.PNG)
+아래의 스태미나를 확인하여 캐릭터의 체력이 닳는 것을 확인할 수 있다.
+
+4) 인벤토리 기능
 ![6](https://user-images.githubusercontent.com/84300945/121804958-ffd71580-cc83-11eb-8507-837f80db0100.PNG)
+I를 누르면 인벤토리 창이 나와 획득한 물품을 확인할 수 있다.
+
+5) 저장, 불러오기 기능
 ![7](https://user-images.githubusercontent.com/84300945/121804962-02396f80-cc84-11eb-8ac0-1d5d2f354996.PNG)
+P를 누르면 저장, 불러오기 화면이 떠서 원하는 기능을 선택할 수 있다.
+
 ![8](https://user-images.githubusercontent.com/84300945/121804966-06fe2380-cc84-11eb-8d1b-5618320dd0e7.PNG)
 ![9](https://user-images.githubusercontent.com/84300945/121804968-09607d80-cc84-11eb-9320-d7d1eb86fc53.PNG)
 ![10](https://user-images.githubusercontent.com/84300945/121804973-0d8c9b00-cc84-11eb-9c3b-b7f8e73ef304.PNG)
