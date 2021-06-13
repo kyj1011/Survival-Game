@@ -53,6 +53,8 @@ P를 누르면 저장, 불러오기 화면이 떠서 원하는 기능을 선택�
 
 ## 순서도
 ![순서도](https://user-images.githubusercontent.com/84300945/120951333-90dd5680-c783-11eb-8731-75dc7f688982.PNG)
+![Save Load](https://user-images.githubusercontent.com/84656270/121806119-96f29c00-cc89-11eb-93e7-69c279affbf7.PNG)
+
 
 ## 사용에셋
 ![tank](https://user-images.githubusercontent.com/84656270/121800439-d959b000-cc6c-11eb-80f0-711bbe929c1b.PNG)
