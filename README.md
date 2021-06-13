@@ -28,6 +28,20 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 
 적을 제거하고 최종 목표인 식물을 채집해서 우주선에 도달하는 것이 게임의 목표이다.
 
+## 주요기능
+![2](https://user-images.githubusercontent.com/84300945/121804950-f8b00780-cc83-11eb-9aaf-cdc97ef331bf.PNG)
+![3](https://user-images.githubusercontent.com/84300945/121804951-fa79cb00-cc83-11eb-9b9c-6da6a7551e0c.PNG)
+![4](https://user-images.githubusercontent.com/84300945/121804954-fc438e80-cc83-11eb-87b1-1494d319159e.PNG)
+![5](https://user-images.githubusercontent.com/84300945/121804956-fd74bb80-cc83-11eb-9408-7e0c8bea36e7.PNG)
+![6](https://user-images.githubusercontent.com/84300945/121804958-ffd71580-cc83-11eb-8507-837f80db0100.PNG)
+![7](https://user-images.githubusercontent.com/84300945/121804962-02396f80-cc84-11eb-8ac0-1d5d2f354996.PNG)
+![8](https://user-images.githubusercontent.com/84300945/121804966-06fe2380-cc84-11eb-8d1b-5618320dd0e7.PNG)
+![9](https://user-images.githubusercontent.com/84300945/121804968-09607d80-cc84-11eb-9320-d7d1eb86fc53.PNG)
+![10](https://user-images.githubusercontent.com/84300945/121804973-0d8c9b00-cc84-11eb-9c3b-b7f8e73ef304.PNG)
+![11](https://user-images.githubusercontent.com/84300945/121804977-10878b80-cc84-11eb-91ef-501a5a70156c.PNG)
+![12](https://user-images.githubusercontent.com/84300945/121804981-11b8b880-cc84-11eb-9ddd-e44f73b65292.PNG)
+![13](https://user-images.githubusercontent.com/84300945/121804985-13827c00-cc84-11eb-8096-c92cdd126a90.PNG)
+
 ## 순서도
 ![순서도](https://user-images.githubusercontent.com/84300945/120951333-90dd5680-c783-11eb-8731-75dc7f688982.PNG)
 
