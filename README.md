@@ -30,8 +30,12 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 
 ## 주요기능
 ![2](https://user-images.githubusercontent.com/84300945/121804950-f8b00780-cc83-11eb-9aaf-cdc97ef331bf.PNG)
+
+1) 숫자 키패드를 이용한 무기 변경기능
 ![3](https://user-images.githubusercontent.com/84300945/121804951-fa79cb00-cc83-11eb-9b9c-6da6a7551e0c.PNG)
+숫자 키패드 2번을 누르면 총을 소지한다.
 ![4](https://user-images.githubusercontent.com/84300945/121804954-fc438e80-cc83-11eb-87b1-1494d319159e.PNG)
+숫자 키패드 3번을 누르면 도끼를 소지한다.
 ![5](https://user-images.githubusercontent.com/84300945/121804956-fd74bb80-cc83-11eb-9408-7e0c8bea36e7.PNG)
 ![6](https://user-images.githubusercontent.com/84300945/121804958-ffd71580-cc83-11eb-8507-837f80db0100.PNG)
 ![7](https://user-images.githubusercontent.com/84300945/121804962-02396f80-cc84-11eb-8ac0-1d5d2f354996.PNG)
