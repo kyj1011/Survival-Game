@@ -48,15 +48,8 @@ E를 누르면 물품을 획득할 수 있다.
 I를 누르면 인벤토리 창이 나와 획득한 물품을 확인할 수 있다.
 
 5) 저장, 불러오기 기능
-![7](https://user-images.githubusercontent.com/84300945/121804962-02396f80-cc84-11eb-8ac0-1d5d2f354996.PNG)
-P를 누르면 저장, 불러오기 화면이 떠서 원하는 기능을 선택할 수 있다.
-
-![8](https://user-images.githubusercontent.com/84300945/121804966-06fe2380-cc84-11eb-8d1b-5618320dd0e7.PNG)
-![9](https://user-images.githubusercontent.com/84300945/121804968-09607d80-cc84-11eb-9320-d7d1eb86fc53.PNG)
-![10](https://user-images.githubusercontent.com/84300945/121804973-0d8c9b00-cc84-11eb-9c3b-b7f8e73ef304.PNG)
-![11](https://user-images.githubusercontent.com/84300945/121804977-10878b80-cc84-11eb-91ef-501a5a70156c.PNG)
-![12](https://user-images.githubusercontent.com/84300945/121804981-11b8b880-cc84-11eb-9ddd-e44f73b65292.PNG)
 ![13](https://user-images.githubusercontent.com/84300945/121804985-13827c00-cc84-11eb-8096-c92cdd126a90.PNG)
+P를 누르면 저장, 불러오기 화면이 떠서 원하는 기능을 선택할 수 있다.
 
 ## 순서도
 ![순서도](https://user-images.githubusercontent.com/84300945/120951333-90dd5680-c783-11eb-8731-75dc7f688982.PNG)
